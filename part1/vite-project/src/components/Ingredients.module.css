@@ -1,0 +1,13 @@
+.ingredientList {
+    text-align: left;
+ }
+
+ .similarComponents {
+    display:flex;
+  justify-content:space-between;
+  color: black;
+  text-align: left;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 0;
+  }
