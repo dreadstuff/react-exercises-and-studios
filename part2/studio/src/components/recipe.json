@@ -1,18 +1,17 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
-   }
- ]
- 
+  {
+    "name": "The Best Chocolate Chip Cookie Recipe Ever",
+    "author": "Laura",
+    "description": "This is the best chocolate chip cookies recipe ever! No funny ingredients, no chilling time, etc. Just a simple, straightforward, amazingly delicious, doughy yet still fully cooked, chocolate chip cookie that turns out perfectly every single time! ",
+    "website": "https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/",
+    "recipeImage": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg",
+    "authorImage": "https://joyfoodsunshine.com/wp-content/uploads/2023/04/cropped-author-avatar-128x128.jpg",
+    "ingredients": [
+      "Butter",
+      "White Sugar",
+      "Brown Sugar",
+      "Sea Salt",
+      "Chocoloate Chips"
+    ]
+  }
+]
