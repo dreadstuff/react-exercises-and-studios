@@ -1,0 +1,34 @@
+{ 
+    "hobbyImport": [
+        {
+            "exampleOf": "hand and eye coordiantion",
+            "gameExample": "console gaming",
+            "photoUrl": "https://www.theplaidzebra.com/wp-content/uploads/2015/05/2.jpg",
+            "alt": "Example of hand and eye coordination using a controller"
+        },
+        {
+            "exampleOf": "socializing with similar hobbyists",
+            "gameExample": "socializing with others",
+            "photoUrl": "https://integratedlistening.com.au/wp-content/uploads//2014/10/4394933478_15cc3c1fd8_b-300x225.jpg",
+            "alt": "Example of socializing with others while gaming"
+        },
+        {
+            "exampleOf": "exploring different worlds",
+            "gameExample": "space-genre gameplay on a different world",
+            "photoUrl": "https://imageio.forbes.com/specials-images/imageserve/6697c99d6444d1ef256e8c48/worlds/960x0.jpg?format=jpg&width=960",
+            "alt": "Example of flying on a planet in a different galaxy- far, far away"
+        },
+        {
+            "exampleOf": "filler info",
+            "gameExample": "filler info",
+            "photoUrl": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/07/no-mans-sky-worlds-part-1.jpg",
+            "alt": "filler info"
+        },
+        {
+            "exampleOf": "filler info",
+            "gameExample": "filler info",
+            "photoUrl": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/07/no-mans-sky-worlds-part-1.jpg",
+            "alt": "filler info"
+        }
+    ]
+}
