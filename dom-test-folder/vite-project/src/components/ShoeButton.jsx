@@ -4,7 +4,7 @@ export default function ShoeButton() {
    const [shoeCount, setShoeCount] = useState(0);
 
    const handleClick = () => {
-      setShoeCount(shoeCount+1);
+      setShoeCount(shoeCount+2);
    }
 
    return (
