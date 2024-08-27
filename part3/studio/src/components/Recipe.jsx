@@ -17,7 +17,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ['BBQ sauce', ' pineapple slices', 'sodium soy sauce', 'sesame oil', 'minced garlic'];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
